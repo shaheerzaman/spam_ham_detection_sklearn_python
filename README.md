@@ -1,1 +1,3 @@
-# spam_ham_detection_sklearn_python
+# SMS-Message-Spam-Detector
+
+### A simple flask api to detect spam or ham using sklearn and python
